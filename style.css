@@ -1,0 +1,74 @@
+body{
+    background-size:cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    
+color: rgb(255, 255, 255);
+}
+
+.note{
+    font-size:25px;
+    color:rgb(255, 255, 255);
+    font-family:'Times New Roman';
+}
+
+.start{
+    margin-top: 4%;
+    padding:25px;
+    font-size: 30;
+    background-color: 
+    #000000;
+    
+    color: rgb(255, 255, 255);
+
+}
+
+.input{
+    margin-top: 20;
+    color:rgb(255, 255, 255);
+    padding:20px;
+    
+}
+
+.sub{
+    color:black;
+    margin-right: 10;
+    background-color: 
+      white;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    
+    line-height: 3;
+    text-align: center;
+    
+  }
+
+
+  #fname{
+      color:black;
+      
+  }
+
+  #inpt{
+     
+        width: 350px;
+        height: 350px;
+        margin:20px;
+        padding: 10px;
+        border: 4px solid rgb(0, 0, 0);
+      
+  }
+
+ 
+   
+  #lname{
+    color:black;
+  }
